@@ -1,0 +1,146 @@
+body {
+  min-height: 1000px;
+}
+
+.circle-profile {
+  width: 80px;
+  height: 80px;
+  border: 5px solid white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+}
+
+.square-profile {
+  width: 200px;
+  height: 200px;
+  border: 5px solid white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.nav {
+  background-color: #999;
+  color: #ddd;
+}
+
+.right {
+  width: 0;
+  height: 0;
+  background-color: transparent;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 1em;
+  border-left-color: black;
+}
+
+.gradient-for {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.gradient-for li:nth-child(1) {
+  padding: 4px;
+  background-color: #fb8d81;
+}
+.gradient-for li:nth-child(2) {
+  padding: 4px;
+  background-color: #fb9b90;
+}
+.gradient-for li:nth-child(3) {
+  padding: 4px;
+  background-color: #fca89e;
+}
+.gradient-for li:nth-child(4) {
+  padding: 4px;
+  background-color: #fcb5ad;
+}
+.gradient-for li:nth-child(5) {
+  padding: 4px;
+  background-color: #fdc3bc;
+}
+.gradient-for li:nth-child(6) {
+  padding: 4px;
+  background-color: #fdd0cb;
+}
+.gradient-for li:nth-child(7) {
+  padding: 4px;
+  background-color: #feddd9;
+}
+.gradient-for li:nth-child(8) {
+  padding: 4px;
+  background-color: #feeae8;
+}
+.gradient-for li:nth-child(9) {
+  padding: 4px;
+  background-color: #fff8f7;
+}
+.gradient-for li:nth-child(10) {
+  padding: 4px;
+  background-color: white;
+}
+
+.gradient-while {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.gradient-while li:nth-child(1) {
+  padding: 4px;
+  background-color: #fb8d81;
+}
+.gradient-while li:nth-child(2) {
+  padding: 4px;
+  background-color: #fb9b90;
+}
+.gradient-while li:nth-child(3) {
+  padding: 4px;
+  background-color: #fca89e;
+}
+.gradient-while li:nth-child(4) {
+  padding: 4px;
+  background-color: #fcb5ad;
+}
+.gradient-while li:nth-child(5) {
+  padding: 4px;
+  background-color: #fdc3bc;
+}
+.gradient-while li:nth-child(6) {
+  padding: 4px;
+  background-color: #fdd0cb;
+}
+.gradient-while li:nth-child(7) {
+  padding: 4px;
+  background-color: #feddd9;
+}
+.gradient-while li:nth-child(8) {
+  padding: 4px;
+  background-color: #feeae8;
+}
+.gradient-while li:nth-child(9) {
+  padding: 4px;
+  background-color: #fff8f7;
+}
+.gradient-while li:nth-child(10) {
+  padding: 4px;
+  background-color: white;
+}
+
+.socials {
+  font-size: 2em;
+  font-family: arial;
+  font-weight: bold;
+}
+.socials .youtube {
+  color: #fe0106;
+}
+.socials .facebook {
+  color: #3c5a99;
+}
+.socials .twitter {
+  color: #1ea1f8;
+}
+.socials .instagram {
+  color: #ffbf34;
+}
+.socials .twitch {
+  color: #8234b2;
+}/*# sourceMappingURL=main.css.map */
